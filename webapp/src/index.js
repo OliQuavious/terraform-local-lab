@@ -1,1 +1,1 @@
-console.log("Hello, Terraform!");
+console.log("Hello, Terraform done!");
